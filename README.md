@@ -1,29 +1,41 @@
-# Demo
+# Website
 
-This sandbox is a demonstration of the [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable/) theme system for [docsify.js](https://docsify.js.org/). 
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-?> You can ignore the `package.json` file in this sandbox. This file is required by codesandbox.io, not [docsify.js](https://docsify.js.org/).
+### Installation
 
-## Change Themes
+```
+$ yarn
+```
 
-Select a [docsify-themeable theme](https://jhildenbiddle.github.io/docsify-themeable/#/themes) and update the `<link>` in `index.html` accordingly.
+### Local Development
 
-(See comment #1 in `index.html`)
+```
+$ yarn start
+```
 
-## Customize Themes
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-Set the [theme properties](http://localhost:3000/#/customization?id=theme) you wish to change in either a `<style>` tag or an external stylesheet. Code blocks can also be styled by adding a [PrismJS theme](https://jhildenbiddle.github.io/docsify-themeable/#/customization?id=prismjs).
+### Build
 
-(See comment #2 and #3 in `index.html`)
+```
+$ yarn build
+```
 
-## Configure Options
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-Details are available in the [docsify](https://docsify.js.org/#/configuration) and [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable/#/options) documentation.
+### Deployment
 
-(See comment #4 and #5 in `index.html`)
+Using SSH:
 
-## Add Plugins
+```
+$ USE_SSH=true yarn deploy
+```
 
-Details are available in the [docsify plugins](https://docsify.js.org/#/plugins) documentation.
+Not using SSH:
 
-(See comment #6 in `index.html`)
+```
+$ GIT_USER=<Your GitHub username> yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.

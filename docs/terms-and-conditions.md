@@ -1,3 +1,7 @@
+---
+sidebar_position: 6
+---
+
 # Terms and Conditions
 
 Please read this Terms and Conditions agreement carefully before accessing or using Acckenn. Because it is an important contract between us and our users, we have tried to make it as clear as possible.

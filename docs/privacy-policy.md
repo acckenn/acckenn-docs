@@ -1,3 +1,7 @@
+---
+sidebar_position: 5
+---
+
 # Privacy Policy
 
 Acckenn recognizes the importance of the protection of your personal data. This Privacy Policy explains our practices regarding the collection, use or disclosure of personal data including other rights of the Data Subjects in accordance with the Personal Data Protection Laws.
