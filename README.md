@@ -1,41 +1,40 @@
-# Website
+---
+label: Welcome
+icon: home
+---
+# Welcome to Acckenn
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+[Acckenn](https://acckenn.com/) **is not just a crypto tax calculation software**, but we also provide one-stop crypto tax and accounting services. Acckenn was created to address three major problems:
+- Too **hard to calculate** the cost basis
+- **Lack of understanding** of crypto transactions
+- Cryptocurrencies are **not fully accepted**
 
-### Installation
+---
 
-```
-$ yarn
-```
+## Who we are
 
-### Local Development
+Team of crypto investors, developers, and accountants on a mission to simplify crypto tax reporting.
 
-```
-$ yarn start
-```
+## What we do
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+Solves crypto tax reporting for investors. We do this by pairing intuitive crypto tax calculation software with expert guidance from professional accountants.
 
-### Build
+## Why we started
 
-```
-$ yarn build
-```
+Over the past few years, cryptocurrency has become mainstream in the world financial system. The opportunities in cryptocurrency are endless for everyone. But not everyone can easily understand crypto transactions, or how crypto is taxed.
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+Every year, Crypto investors goes through the pain of crypto tax preparation. So, If a crypto wallet can be set up in less than 1 minute, why can not doing your crypto taxes be as simple and painless?
 
-### Deployment
+We know that to do this, we will need specialists in various fields. So, Acckenn was and is created by crypto investors, developers, and accountants.
 
-Using SSH:
+---
 
-```
-$ USE_SSH=true yarn deploy
-```
+## Support
 
-Not using SSH:
+Technical support questions are best asked in the [Discussions](https://github.com/acckenn/acckenn-docs/discussions). The discussions are monitored 24 hours a day and we will do our best to assist.
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+If you find a defect or would like to submit a feature request, please create an [Issue](https://github.com/acckenn/acckenn-docs/issues) and we will investigate right away.
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Do you have a general inquiry? Please feel free to contact us at hello@acckenn.com.
+
+We :heart: feedback.

@@ -1,8 +1,10 @@
 ---
-sidebar_position: 2
+order: 2
+icon: dot
+tags: [Crypto Tax Report]
 ---
 
-# Choose txn type
+# Choose Txn Type
 
 Acckenn Calc is **only as accurate as the data you provide it.** This means it's essential that you keep records of all crypto transactions, which includes not just buy or sell but also records of spending, income, gifts sent or received, etc.
 
