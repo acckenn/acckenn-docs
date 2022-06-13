@@ -1,6 +1,6 @@
 ---
 order: 4
-icon: dot
+icon: horizontal-rule
 tags: [Crypto Tax Report]
 ---
 
@@ -12,7 +12,7 @@ tags: [Crypto Tax Report]
 
 #### :icon-eye-closed: Anonymous
 
-Project your privacy by processing your data locally on your browser.
+Protect your privacy by processing your data locally on your browser.
 
 #### :icon-zap: Easy to use
 
@@ -20,8 +20,8 @@ Built to be easy to use without any special configuration or troublesome setup.
 
 #### :icon-download: Simple import
 
-Just [download your transactions file](/acckenn-calc/import-your-txns.md) in csv format from the exchange and import it.
+Just [download your transactions file](/get-started/import-your-txns.md) in csv format from the exchange and import it.
 
 #### :icon-sync: Auto pricing
 
-Auto-detect incomplete data and fetch [latest or historic prices](/acckenn-calc/get-historic-prices.md) to complete them.
+Auto-detect incomplete data and fetch [latest or historic prices](/get-started/get-historic-prices.md) to complete them.

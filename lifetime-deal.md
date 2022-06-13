@@ -4,24 +4,10 @@ icon: flame
 tags: [Lifetime Deal]
 ---
 
-# Lifetime Deal
+# Lifetime Deal NFTs
 
-[Acckenn Calc](https://acckenn.com/calc/) is an :sparkles: **high-accurate** :sparkles: autonomously crypto tax calculator that only processes your data locally on your browser. Focus on your privacy and easiness while Acckenn handles the rest.
+Lifetime Deal NFTs is a new utilization from NFTs as a key to access :sparkles: **perks and benefits** :sparkles: on Acckenn ecosystem.
 
 ---
 
-#### :icon-eye-closed: Anonymous
-
-Project your privacy by processing your data locally on your browser.
-
-#### :icon-zap: Easy to use
-
-Built to be easy to use without any special configuration or troublesome setup.
-
-#### :icon-download: Simple import
-
-Just [download your transactions file](/acckenn-calc/import-your-txns.md) in csv format from the exchange and import it.
-
-#### :icon-sync: Auto pricing
-
-Auto-detect incomplete data and fetch [latest or historic prices](/acckenn-calc/get-historic-prices.md) to complete them.
+:mega: We'll share more details here soon.

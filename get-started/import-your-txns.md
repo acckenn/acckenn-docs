@@ -1,6 +1,6 @@
 ---
 order: 3
-icon: dot
+icon: horizontal-rule
 tags: [Crypto Tax Report]
 ---
 

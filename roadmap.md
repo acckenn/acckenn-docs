@@ -23,8 +23,6 @@ Need a new feature in Acckenn? Start a [discussion](https://github.com/acckenn/a
 
 ## v1.0.0-beta [!badge text="LATEST" variant="info"]
 
-Released: 2022-06-16
-
 +++ New
 
 - [x] Launch of Acckenn Calc (crypto tax calculator) `v1.0.0-beta`
