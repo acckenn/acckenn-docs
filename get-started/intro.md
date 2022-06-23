@@ -18,7 +18,7 @@ Protect your privacy by processing your data locally on your browser.
 
 Built to be easy to use without any special configuration and setup.
 
-#### :icon-sliders: Simple format
+#### :icon-multi-select: Simple format
 
 Just [download your transactions file](/get-started/import-your-txns.md) in csv format from the exchange and import it.
 
