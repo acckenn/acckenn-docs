@@ -14,14 +14,14 @@ tags: [Crypto Tax Report]
 
 Protect your privacy by processing your data locally on your browser.
 
-#### :icon-zap: Easy to use
+#### :icon-gear: Easy to use
 
-Built to be easy to use without any special configuration or troublesome setup.
+Built to be easy to use without any special configuration and setup.
 
-#### :icon-download: Simple import
+#### :icon-sliders: Simple format
 
 Just [download your transactions file](/get-started/import-your-txns.md) in csv format from the exchange and import it.
 
-#### :icon-sync: Auto pricing
+#### :icon-graph: Auto pricing
 
-Auto-detect incomplete data and fetch [latest or historic prices](/get-started/get-historic-prices.md) to complete them.
+Auto-detect incomplete data and fetch [latest or historic prices.](/get-started/get-historic-prices.md)

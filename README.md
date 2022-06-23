@@ -5,7 +5,7 @@ icon: home
 
 # Welcome to Acckenn
 
-[Acckenn](https://acckenn.com/) **is a crypto tax calculation platform**, but we also provide one-stop crypto tax and accounting services.
+[Acckenn](https://acckenn.com/) **is a crypto tax calculation software**, but we also provide one-stop crypto tax and accounting services.
 
 Acckenn was created to address three major problems:
 - Too **hard to calculate** the cost basis
