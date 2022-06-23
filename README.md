@@ -1,6 +1,6 @@
 ---
 label: Welcome
-icon: home
+icon: star
 ---
 
 # Welcome to Acckenn

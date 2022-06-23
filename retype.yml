@@ -12,6 +12,7 @@ meta:
   title: " with acckenn"
 links:
 - text: Home
+  icon: home
   link: https://acckenn.com/
 footer:
-  copyright: "Copyright &copy; Acckenn {{ year }}"
+  copyright: "Copyright &copy; {{ year }}, Acckenn"
