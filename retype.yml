@@ -1,0 +1,23 @@
+input: .
+output: .retype
+url: docs.acckenn.com
+favicon: static/favicon.png
+branding:
+  title:
+  label: Docs
+  logo: static/logo.png           # Path to a logo file.
+  logoDark: static/logo_dark.png  # Path to a logo file to use in dark mode.
+  logoAlign: left                 # Align the logo to the right or the left.
+meta:
+  title: " with acckenn"
+links:
+- text: Home
+  link: https://acckenn.com/
+- text: Github
+  link: https://github.com/acckenn
+- text: Facebook
+  link: https://facebook.com/acckenn
+- text: Discord
+  link: https://discord.gg/gSfxHBycyD
+footer:
+  copyright: "Copyright &copy; {{ year }}, Acckenn"
